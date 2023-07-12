@@ -6,8 +6,11 @@
 - 📫 How to reach me: thisarumahoshada12@gmail.com
 - 🎹 Playing piano is my expression 
 
-<img src="https://github-readme-stats.vercel.app/api?username=thisarumahoshada&show_icons=true&theme=radical">
+<h3 align="left">Languages and Tools : </h3>
+<p align="left>
 
+  
+  </p>
 <img align="left"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -27,6 +30,15 @@
 <img align="left" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
+#
+
+
+
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=thisarumahoshada&show_icons=true&theme=radical">
 
 
 
